@@ -142,10 +142,6 @@ body {
   margin-top: 1rem;
 }
 
-.map {
-  display: flex;
-  justify-content: center;
-}
 
 @media screen and (max-width: 860px) {
   .latlong {
